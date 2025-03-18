@@ -5,7 +5,7 @@
 
 [![Email](https://img.shields.io/badge/Email-jdavid.lozano1404%40gmail.com-red)](mailto:jdavid.lozano1404@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Pereira%2C%20Colombia-green)](https://www.google.com/maps/place/Pereira,+Risaralda,+Colombia)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jose-david-lozano-valencia-094114261/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-orange)]()
 
 ---
